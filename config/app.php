@@ -186,6 +186,7 @@ return [
          * Package Service Providers...
          */
 
+         App\Providers\TranslatServiceProvider::class,
         /*
          * Application Service Providers...
          */
